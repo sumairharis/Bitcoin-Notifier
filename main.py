@@ -1,9 +1,7 @@
 import urllib2
 import re
 import time
-import webbrowser
 import cookielib
-from getpass import getpass
 import os
 import sys
 
